@@ -107,7 +107,7 @@ author:
   name             : "Prabhath Vejendla"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Information Systems student at Cal Poly Pomona."
-  location         : "Somewhere"
+  # location         : "Somewhere"
   email            :
   links:
     - label: "Email"
