@@ -4,8 +4,8 @@ main:
     url: /index.html
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Assets"
-    url: /assets/
+  - title: "About Me"
+    url: https://joshvejendla.github.io/About-Me/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
