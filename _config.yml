@@ -20,7 +20,7 @@ title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prabhath Vejendla"
-description              : "A cybersecurity blog where I discuss cloud and enterprise IT."
+description              : "An IT blog where I discuss cloud and cybersecurity."
 url                      : "https://joshvejendla.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
