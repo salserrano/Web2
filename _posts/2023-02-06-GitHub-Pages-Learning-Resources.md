@@ -1,4 +1,6 @@
-Resources I used: 
+GitHub Pages is a website creation service that allows you to host a website in a specially provisioned repository for free. It uses Markdown to edit the text content of a page, and uses Jekyll to edit the structure and layout of a page.
+
+Resources I used to learn: 
 --------------------------
 Offers a more comprehensive learning path: <https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/>
   
