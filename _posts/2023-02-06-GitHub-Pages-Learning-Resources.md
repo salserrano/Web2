@@ -4,6 +4,6 @@ Offers a more comprehensive learning path: <https://learn.microsoft.com/en-us/tr
   
 Learn GitHub Pages directly from GitHub: <https://skills.github.com/#first-day-on-github> 
   
-Learn Markdown: <https://daringfireball.net/projects/markdown/>
+Learn Markdown: <https://daringfireball.net/projects/markdown/basics>
 
 Configure site build with Jekyll: <https://jekyllrb.com/docs/configuration/>
