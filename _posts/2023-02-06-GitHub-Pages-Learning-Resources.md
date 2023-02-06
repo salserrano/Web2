@@ -1,4 +1,4 @@
-GitHub Pages is a website creation service that allows you to host a website in a specially provisioned repository for free. 
+GitHub Pages is a website creation service that allows you to host a website in a specially provisioned repository on GitHub for free. 
 
 It uses Markdown to edit the text content of a page, and uses Jekyll to edit the structure and layout of a page.
 
