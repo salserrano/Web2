@@ -1,9 +1,9 @@
 Resources I used: 
 --------------------------
-Offers a more comprehensive learning path: https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/
+Offers a more comprehensive learning path: <https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/>
   
-Learn GitHub Pages directly from GitHub: https://skills.github.com/#first-day-on-github 
+Learn GitHub Pages directly from GitHub: <https://skills.github.com/#first-day-on-github> 
   
-Learn Markdown: https://daringfireball.net/projects/markdown/
+Learn Markdown: <https://daringfireball.net/projects/markdown/>
 
-Configure site build with Jekyll: https://jekyllrb.com/docs/configuration/
+Configure site build with Jekyll: <https://jekyllrb.com/docs/configuration/>
