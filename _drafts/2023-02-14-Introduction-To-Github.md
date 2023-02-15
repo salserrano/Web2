@@ -2,7 +2,9 @@ Following this learning path: <https://learn.microsoft.com/en-us/training/paths/
 
 ## What is GitHub?
 
-GitHub is a software development platform that hosts project repositories and manages them using distributed version control (Git). Software developers and IT professionals use GitHub to collaborate on and build s
+GitHub is a software development platform that hosts project repositories and manages them using distributed version control (Git). 
+
+Software developers and IT professionals use GitHub to collaborate on and build software projects.
 
 ## Key concepts in GitHub
 
