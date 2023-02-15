@@ -21,6 +21,7 @@ Create a branch from main ⇒ Commit a change ⇒ Open a pull request ⇒ Merge 
 ## Collaboration in practice
 
 Between two partners:
+
   Partner 1: Forks a copy of Partner 2's repository
   Partner 1: Commits a change to the repository
   Partner 1: Opens a pull request to Partner 2's repository
