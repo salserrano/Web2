@@ -24,8 +24,8 @@ Create a branch from main ⇒ Commit a change ⇒ Open a pull request ⇒ Merge 
 
 Between two partners:
 
-  Partner 1: Forks a copy of Partner 2's repository
-  Partner 1: Commits a change to the repository
-  Partner 1: Opens a pull request to Partner 2's repository
-  Partner 2: Reviews Partner 1's pull request
-  Partner 2: If Partner 1's proposed changes are accepted, Partner 2 merges the pull request to their own repository
+1. Partner 1: Forks a copy of Partner 2's repository
+2. Partner 1: Commits a change to the repository
+3. Partner 1: Opens a pull request to Partner 2's repository
+4. Partner 2: Reviews Partner 1's pull request
+5. Partner 2: If Partner 1's proposed changes are accepted, Partner 2 merges the pull request to their own repository
