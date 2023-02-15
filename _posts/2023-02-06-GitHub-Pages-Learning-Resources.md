@@ -2,6 +2,10 @@ GitHub Pages is a website creation service that allows you to host a website in 
 
 It uses Markdown to edit the text content of a page, and uses Jekyll to edit the structure and layout of a page.
 
+Articles in this series:
+--------------------------
+Introduction to Github: (coming soon)
+
 Resources I used to learn: 
 --------------------------
 Offers a more comprehensive learning path: <https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/>
