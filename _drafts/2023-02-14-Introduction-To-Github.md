@@ -12,9 +12,14 @@ Software developers and IT professionals use GitHub to collaborate on and build 
 2. Version Control:
 3. Branch: 
 4. Fork: copies a version of another person's software repository to your own GitHub account
-5. Clone: 
-6. Commit: 
-7. Pull Request: 
+5. Clone: copies a local version of a software repository to your computer
+
+Use case for a fork: "I want to make a copy of this repository to propose changes"
+
+Use case for a clone: "I want to download this software to my computer and use this myself"
+
+7. Commit: 
+8. Pull Request: proposes changes to another person's repository
 
 ## Walkthrough of GitHub Skills challenge
 
