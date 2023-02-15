@@ -16,4 +16,13 @@ GitHub is a software development platform that hosts project repositories and ma
 
 ## Walkthrough of GitHub Skills challenge
 
+Create a branch from main ⇒ Commit a change ⇒ Open a pull request ⇒ Merge your pull request
+
 ## Collaboration in practice
+
+Between two partners:
+  Partner 1: Forks a copy of Partner 2's repository
+  Partner 1: Commits a change to the repository
+  Partner 1: Opens a pull request to Partner 2's repository
+  Partner 2: Reviews Partner 1's pull request
+  Partner 2: If Partner 1's proposed changes are accepted, Partner 2 merges the pull request to their own repository
