@@ -1,4 +1,4 @@
-Following this learning path:<https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/>
+Following this learning path: <https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/>
 
 ## Key Concepts in GitHub
 
