@@ -11,6 +11,7 @@ Software developers and IT professionals use GitHub to collaborate on and build 
 1. Repository: 
 2. Version Control:
 3. Branch: 
+
 4. Fork: copies a version of another person's software repository to your own GitHub account
 5. Clone: copies a local version of a software repository to your computer
 
