@@ -8,13 +8,13 @@ Software developers and IT professionals use GitHub to collaborate on and build 
 
 ## Key concepts in GitHub
 
-1. Repository
-2. Version Control
-3. Branches
-4. Forks: copies a version of another person's software repository to your own GitHub account
-5. Clones
-6. Commits
-7. Pull Requests
+1. Repository: 
+2. Version Control:
+3. Branch: 
+4. Fork: copies a version of another person's software repository to your own GitHub account
+5. Clone: 
+6. Commit: 
+7. Pull Request: 
 
 ## Walkthrough of GitHub Skills challenge
 
