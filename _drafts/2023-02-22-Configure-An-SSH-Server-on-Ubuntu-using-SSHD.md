@@ -1,4 +1,4 @@
-Configure An SSH Server on your Ubuntu machine
+Configure An SSH Server on your Ubuntu machine using SSHD
 -----------
 
 1. Change Listen Address on SSH config file
