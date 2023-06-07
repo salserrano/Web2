@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Prabhath Vejendla"
-description              : "An IT blog where I discuss cloud and cybersecurity."
-url                      : "https://joshvejendla.github.io"
+name                     : "Salvador Serrano"
+description              : # "An IT blog where I discuss cloud and cybersecurity."
+url                      : # "https://joshvejendla.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -49,7 +49,7 @@ comments:
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -104,29 +104,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prabhath Vejendla"
+  name             : "Salvador Serrano"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Information Systems student at Cal Poly Pomona."
   # location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: # "Email"
+      icon: # "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://joshvejendla.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/prabhathvejendla/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/joshvejendla"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://salserrano.github.io/Web2/"
+    - label: # "Twitter"
+      icon: # "fab fa-fw fa-twitter-square"
+      url: # "https://twitter.com/"
+    - label: # "LinkedIn"
+      icon: # "fab fa-fw fa-linkedin"
+      url: # "https://www.linkedin.com/in/prabhathvejendla/"
+    - label: # "GitHub"
+      icon: # "fab fa-fw fa-github"
+      url: # "https://github.com/joshvejendla"
+    - label: # "Instagram"
+      icon: # "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
